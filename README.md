@@ -1,6 +1,6 @@
 # Kachi Eboegbune — Personal Portfolio
 
-**Student:** Kachi Eboegbune  
+**Name:** Kachi Eboegbune  
 **Matriculation Number:** 23120111012  
 **Course:** CSC 419 — Advances in Web, Mobile and Blockchain Development
 
